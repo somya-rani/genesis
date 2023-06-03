@@ -1,0 +1,22 @@
+/* ParentComponentComponent.css */
+.parentComponent {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .parentComponent h2 {
+    color: #333;
+  }
+  
+  .parentComponent p {
+    color: #666;
+  }
+  
+  .parentComponent button {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
